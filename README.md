@@ -4,7 +4,7 @@
 
 This project modernizes the Inventory Management System (IMS) for Acme Retail Ltd. using Cloud & DevSecOps engineering practices.
 
-The solution focuses on:
+The solution focuses mainly on:
 
 - Automated application testing
 - Containerization with Docker
