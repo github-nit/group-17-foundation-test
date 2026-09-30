@@ -1,0 +1,15 @@
+Acme Retail Inventory Management System
+Group: 17
+Capstone Level: Foundation
+
+Infrastructure as Code is managed using Terraform.
+
+Current deployment model:
+- FastAPI application
+- In-memory product storage
+- Docker container configuration prepared
+- Cloud deployment not yet provisioned
+
+This local Terraform resource is used for validating
+the Infrastructure as Code structure without creating
+cloud resources.
